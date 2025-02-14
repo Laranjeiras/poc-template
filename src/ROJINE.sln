@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ROJINE.Domain", "ROJINE.Domain\ROJINE.Domain.csproj", "{D89C11A1-2345-4567-8901-234567890ABC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ROJINE.Application", "ROJINE.Application\ROJINE.Application.csproj", "{E89C11A1-2345-4567-8901-234567890ABC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ROJINE.Infrastructure", "ROJINE.Infrastructure\ROJINE.Infrastructure.csproj", "{F89C11A1-2345-4567-8901-234567890ABC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ROJINE.API", "ROJINE.API\ROJINE.API.csproj", "{326C1414-9505-4914-9853-78443A5ED9A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ROJINE.IoC", "ROJINE.IoC\ROJINE.IoC.csproj", "{F11D8F32-D99B-45A5-9C23-8DF80C7E663F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D89C11A1-2345-4567-8901-234567890ABC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D89C11A1-2345-4567-8901-234567890ABC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D89C11A1-2345-4567-8901-234567890ABC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D89C11A1-2345-4567-8901-234567890ABC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E89C11A1-2345-4567-8901-234567890ABC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E89C11A1-2345-4567-8901-234567890ABC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E89C11A1-2345-4567-8901-234567890ABC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E89C11A1-2345-4567-8901-234567890ABC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F89C11A1-2345-4567-8901-234567890ABC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F89C11A1-2345-4567-8901-234567890ABC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F89C11A1-2345-4567-8901-234567890ABC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F89C11A1-2345-4567-8901-234567890ABC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{326C1414-9505-4914-9853-78443A5ED9A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{326C1414-9505-4914-9853-78443A5ED9A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{326C1414-9505-4914-9853-78443A5ED9A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{326C1414-9505-4914-9853-78443A5ED9A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F11D8F32-D99B-45A5-9C23-8DF80C7E663F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F11D8F32-D99B-45A5-9C23-8DF80C7E663F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F11D8F32-D99B-45A5-9C23-8DF80C7E663F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F11D8F32-D99B-45A5-9C23-8DF80C7E663F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
