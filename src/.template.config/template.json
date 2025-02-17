@@ -24,27 +24,9 @@
         }
       ],
       "defaultValue": "net8.0"
-    },
-    "CompanyName": {
-      "type": "parameter",
-      "datatype": "string",
-      "defaultValue": "ROJINE",
-      "replaces": "ROJINE",
-      "description": "O nome da empresa/projeto que será usado como prefixo nos namespaces"
     }
   },
-  "sources": [
-    {
-      "modifiers": [
-        {
-          "rename": {
-            "ROJINE": "${CompanyName}"
-          }
-        }
-      ]
-    }
-  ],
-  "guids": [
+    "guids": [
     "D8AFCB3F-BA67-4C8F-A61F-411735C9FE2B"
   ]
 } 
